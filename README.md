@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm Darius. My full name has 3 Ds in it, hence the username :D
+I’m currently studying Computer Science and Engineering at TU Delft
 
 <!--
 **M3Darius/M3Darius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
